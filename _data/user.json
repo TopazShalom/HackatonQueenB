@@ -1,0 +1,13 @@
+{
+  "user": [
+    {
+      "user_name": "topazshalom9",
+      "name": "Topaz Shalom",
+      "age": "24",
+      "chosen_topic": "Health",
+      "current_level": "1",
+      "current_question": "2",
+      "currnet_coins": "50"
+    }
+  ]
+}
